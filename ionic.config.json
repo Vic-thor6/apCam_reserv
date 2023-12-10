@@ -1,0 +1,7 @@
+{
+  "name": "apCam",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
